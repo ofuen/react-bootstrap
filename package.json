@@ -5,7 +5,7 @@
   "homepage": "https://ofuen.github.io/react-bootstrap/",
   "dependencies": {
     "acorn": "^7.4.1",
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^4.6.0",
     "eslint-utils": "^1.4.3",
     "gh-pages": "^2.2.0",
     "kind-of": "^6.0.3",
